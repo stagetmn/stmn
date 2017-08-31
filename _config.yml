@@ -1,8 +1,8 @@
 # Site settings
-title: Stages de Trail en Montagne Noire
+title: StagesTrailMontagneNoire
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
+  Stages de trail - Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
 baseurl: "/doctest" # the subpath of your site, e.g. /blog/
