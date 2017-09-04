@@ -1,12 +1,11 @@
 # Site settings
-title: StagesTrail MontagneNoire
+title: StagesTrailMN
 email: your-email@domain.com
 description: >
-  Stages de trail - Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Stages de trail en Montagne Noire.
 
-baseurl: "/stagejm" # the subpath of your site, e.g. /blog/
-url: https://birc.github.io/stagejm # the base hostname & protocol for your site
+baseurl: "/stmn" # the subpath of your site, e.g. /blog/
+url: https://stagetmn.github.io/stmn # the base hostname & protocol for your site
 git_address: https://github.com/aksakalli/jekyll-doc-theme
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
