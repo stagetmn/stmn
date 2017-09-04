@@ -33,7 +33,7 @@ layout: default
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i></h1>
             {% assign post = site.posts.first %}
-            <h4 class="text-center">Prochain stage: {{ post.date }}</h4>
+            <h4 class="text-center">Prochain stage: {{ post.date | date: "%d/%m/%Y"}}</h4>
             <p>{{ post.content }}
             </p>
         </div>
