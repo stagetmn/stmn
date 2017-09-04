@@ -35,14 +35,14 @@ defaults:
     type: posts
   values:
     layout: post
-    sectionid: blog
+    sectionid: stages
 
 - scope:
     path: _docs
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: infos
     seo:
       type: "WebPage"
 
@@ -51,5 +51,5 @@ collections:
     permalink: /:collection/:path/
     output: true
   posts:
-    permalink: /blog/:year/:month/:day/:title/
+    permalink: /stages/:year/:month/:day/:title/
     output: true
