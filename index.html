@@ -32,9 +32,9 @@ layout: default
     <div class="row">
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa fa-calendar" aria-hidden="true"></i></h1>
-            <h4 class="text-center">Prochain stage</h4>
-            <p>Get started by clonening source into GitHub account of your project. Thanks to <a href="https://pages.github.com">GitHub Pages</a>,
-              it will be automatically compiled and publsihed under your project's subdomain on `github.io`.
+            {% assign post = site.posts.first %}
+            <h4 class="text-center">Prochain stage: {{ post.date }}</h4>
+            <p>{{ post.content }}
             </p>
         </div>
         <div class="col-sm-4">
