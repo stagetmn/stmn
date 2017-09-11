@@ -1,6 +1,6 @@
 ---
-title: Sur les chemins
-permalink: /docs/chemins/
+title: Hébergement
+permalink: /docs/gite/
 ---
 
 By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/) by setting
