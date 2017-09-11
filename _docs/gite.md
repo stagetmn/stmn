@@ -10,7 +10,7 @@ By default, this website uses `paper` theme, but you can change it to another [b
 
 
 
-<div id="aniimated-thumbnials">
+<div id="lightgallery">
 
 <a href="#cerulean/"><img src="https://bootswatch.com/cerulean/thumbnail.png"  alt="Cerulean"></a>
 <a href="#cosmo/"><img  src="https://bootswatch.com/cosmo/thumbnail.png" alt="Cosmo"></a>
