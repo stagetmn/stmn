@@ -1,11 +1,17 @@
-- title: Getting Started
-  docs:
-  - home
-  - themes
-  - customization
+# - title: Getting Started
+#   infos:
+#   - home
+#   - themes
+#   - customization
 
-- title: Examples
+- title: Informations et galleries photos
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - gite
+  - chemins
+
+
+# - title: Examples
+#   docs:
+#   - cheatsheet
+#   - font-awesome
+#   - bootstrap
