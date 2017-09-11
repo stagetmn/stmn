@@ -43,7 +43,7 @@ defaults:
     type: docs
   values:
     layout: docs
-    sectionid: infos
+    sectionid: docs
     seo:
       type: "WebPage"
 
