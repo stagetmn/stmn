@@ -7,11 +7,11 @@
 
 <script src="{{ "/js/main.js" | prepend: site.baseurl }} "></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.0/js/lightgallery-all.min.js" integrity="sha256-n9ZE2vNe6Iv4S6dUXnzuvvt2yLWOZPJqD787TC7S4W4=" crossorigin="anonymous"></script>
+<script type='text/javascript' src='/js/unitegallery/dist/js/unitegallery.min.js'></script> 
+<script type='text/javascript' src='/js/unitegallery/dist/themes/default/ug-theme-default.js'></script> 
 
-<script type="text/javascript">
-	$('#lightgallery').lightGallery({
-        selector: 'this',
-        thumbnail:true
-	});
+<script type="text/javascript"> 
+	jQuery(document).ready(function(){ 
+		jQuery("#gallery").unitegallery(); 
+	}); 	
 </script>
