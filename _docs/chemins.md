@@ -1,7 +1,9 @@
 ---
-title: Sur les chemins
+title: Terrains de jeu
 permalink: /docs/chemins/
 ---
+
+Les chemins empruntés lors du stage se situent dans la Montagne Noire, sur les communes de Revel, Saint Ferréol, Sorèze, Dourgne, ...
 
   <div id="nanoGallery2"></div>
 
