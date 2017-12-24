@@ -1,11 +1,13 @@
 # Site settings
 title: StagesTrailMN
-email: your-email@domain.com
+email: chesseronjm@gmail.com
 description: >
   Stages de trail en Montagne Noire.
 
-baseurl: "/stmn" # the subpath of your site, e.g. /blog/
-url: https://stagetmn.github.io/stmn # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+#baseurl: "/stmn" # the subpath of your site, e.g. /blog/
+url: https://stagetmn.github.io # the base hostname & protocol for your site
+#url: https://stagetmn.github.io/stmn # the base hostname & protocol for your site
 # git_address: https://github.com/aksakalli/jekyll-doc-theme
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 fb_address: https://www.facebook.com/Ladag2.31
